@@ -871,7 +871,7 @@ body:after {
     background-color: rgba(34,38,41,0.3);
     
   }
-  .sectBor h3{
+  .sectBor h3 .section-title{
     color: #05f77a;
   }
   .sectBor h4{
